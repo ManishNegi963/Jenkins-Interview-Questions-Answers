@@ -148,4 +148,8 @@
    
 -**What are some common methods for handling error and exception in Jenkins pipeline?**
 
-   - 
+   - catchError
+
+-**How to schedule a pipeline execution at particular time?**
+
+  - By using build periodically
